@@ -1,8 +1,6 @@
-{
-    "result":{
-    "a": "https://www.baidu.com",
-    "i": "app/p9game",
-    "u": "CN",
-    "r": "Appsflyer"
-    }
-}
+{"result": {
+    "a": "01",
+    "i": "bl",
+    "u": "1",
+    "r": "0"
+}}
